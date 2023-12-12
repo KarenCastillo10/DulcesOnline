@@ -1,0 +1,77 @@
+{
+  "Usuarios": [
+    {
+      "nombre": "Duvan",
+      "email": "duvan2017@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "email": "duvan2017@gmail.com",
+      "password": "1234567",
+      "id": 2
+    },
+    {
+      "email": "karen@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "nombre": "Stefani",
+      "email": "stefani@gmail.com",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "email": "stefani@gmail.com",
+      "password": "123456",
+      "id": 5
+    },
+    {
+      "email": "duvan2017@gmail.com",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "nombre": "xd",
+      "email": "xd@gmail.com",
+      "password": "1234567",
+      "id": 7
+    },
+    {
+      "email": "xd@gmail.com",
+      "password": "1234567",
+      "id": 8
+    },
+    {
+      "nombre": "Karen",
+      "email": "karen@gmail.com",
+      "password": "Holaxd",
+      "id": 9
+    },
+    {
+      "email": "karen@gmail.com",
+      "password": "Holaxd",
+      "id": 10
+    },
+    {
+      "email": "duvan2017@gmail.com",
+      "password": "123456",
+      "id": 11
+    },
+    {
+      "email": "duvan2017@gmail.com",
+      "password": "123456",
+      "id": 12
+    }
+  ],
+  "Productos": [
+    {
+      "id": "1",
+      "nombre": "Arequipe ",
+      "precio": "2300000",
+      "categoria": "Postre",
+      "region": "Orinoquia"
+    }
+  ]
+}
